@@ -12,18 +12,18 @@ namespace Week5_StaticExtension_Due1Nov.Extensions
 
         public static bool CheckGroupNo(string groupNo)
         {
-            int alphaCnt =0, numCnt = 0;
+            int numCnt = 0;
+            bool alphaCheck = Char.IsLetter(groupNo[0]) && Char.IsUpper(groupNo[0]);
 
             if (groupNo.Length > Student.UpperAlphaCount+ Student.NumCount) return false;
             
             for (int i = 0;i<groupNo.Length; i++)
             {
-                if (Char.IsLetter(groupNo[i]) && Char.IsUpper(groupNo[i]))
-                    alphaCnt++;
                 if (Char.IsDigit(groupNo[i]))
                     numCnt++;
             }
-            return alphaCnt == Student.UpperAlphaCount && numCnt == Student.NumCount;
+            
+            return  alphaCheck && numCnt == Student.NumCount;
         }
 
         public static bool CheckFullname(string fullName)
