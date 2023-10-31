@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Week5_StaticExtension_Due1Nov.Extensions;
 
 namespace Week5_StaticExtension_Due1Nov.Models
 {
@@ -24,9 +25,9 @@ namespace Week5_StaticExtension_Due1Nov.Models
         {
             _id += 1;
             Id = _id;
-            FullName = fullName;
             GroupNo = groupNo;  
             Age = age;
+            FullName = StudentHelper.FormatFullName(fullName);
         }
     }
 }

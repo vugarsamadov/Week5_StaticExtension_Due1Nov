@@ -31,8 +31,17 @@ namespace Week5_StaticExtension_Due1Nov.Extensions
             var nameAndSurname = fullName.Split();
 
             if(nameAndSurname.Length != 2) return false;
+            
+            return !nameAndSurname[0].ContainsDigit() && !nameAndSurname[1].ContainsDigit();
+        }
 
-            return Char.IsUpper(nameAndSurname[0][0]) && Char.IsUpper(nameAndSurname[1][0]);
+        public static string FormatFullName(string fullName)
+        {
+            var fullnameParts = fullName.Split();
+            fullnameParts[0] = fullnameParts[0].CapitaliseString();
+            fullnameParts[1] = fullnameParts[1].CapitaliseString();
+
+            return String.Join(' ', fullnameParts);
         }
 
         public static string GetFullNameFromUser()
