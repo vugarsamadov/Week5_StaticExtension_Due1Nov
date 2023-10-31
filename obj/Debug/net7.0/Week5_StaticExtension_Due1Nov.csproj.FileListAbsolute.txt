@@ -1,0 +1,14 @@
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\bin\Debug\net7.0\Week5_StaticExtension_Due1Nov.exe
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\bin\Debug\net7.0\Week5_StaticExtension_Due1Nov.deps.json
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\bin\Debug\net7.0\Week5_StaticExtension_Due1Nov.runtimeconfig.json
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\bin\Debug\net7.0\Week5_StaticExtension_Due1Nov.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\bin\Debug\net7.0\Week5_StaticExtension_Due1Nov.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\Week5_StaticExtension_Due1Nov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\Week5_StaticExtension_Due1Nov.AssemblyInfoInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\Week5_StaticExtension_Due1Nov.AssemblyInfo.cs
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\Week5_StaticExtension_Due1Nov.csproj.CoreCompileInputs.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\Week5_StaticExtension_Due1Nov.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\refint\Week5_StaticExtension_Due1Nov.dll
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\Week5_StaticExtension_Due1Nov.pdb
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\Week5_StaticExtension_Due1Nov.genruntimeconfig.cache
+C:\Users\vuqar\Desktop\Code\Tasklar\Week5_StaticExtension_Due1Nov\obj\Debug\net7.0\ref\Week5_StaticExtension_Due1Nov.dll
